@@ -35,7 +35,7 @@ The program requires two arguments:
 
 Run the program with below command (sample lookup file and log file is in `/data` directory)
 ```python
-python3 main.py data/sample_lookup.csv data/sample_flow_log.txt
+python3 main.py <data/lookup_file.csv> <data/flow_log_file.txt>
 ```
 
 ### Running Unit Tests
